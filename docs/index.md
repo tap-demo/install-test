@@ -1,6 +1,7 @@
 # Trusted Application Pipeline Software Template
 
 ### trigger the pipeline (fake change)
+### fix branch edit
 
 This application, **test-install**, was created from a Trusted Application Pipeline Software Template.
 
